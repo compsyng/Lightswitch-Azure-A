@@ -1,0 +1,2 @@
+Lightswitch-Azure-A
+===================
